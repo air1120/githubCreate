@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  Demo
+//  githubCreate
 //
 //  Created by rason on 16/6/16.
 //  Copyright © 2016年 RasonWu. All rights reserved.
@@ -16,7 +16,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"haha");
     // Do any additional setup after loading the view, typically from a nib.
 }
 

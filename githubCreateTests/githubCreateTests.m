@@ -1,6 +1,6 @@
 //
-//  DemoTests.m
-//  DemoTests
+//  githubCreateTests.m
+//  githubCreateTests
 //
 //  Created by rason on 16/6/16.
 //  Copyright © 2016年 RasonWu. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface DemoTests : XCTestCase
+@interface githubCreateTests : XCTestCase
 
 @end
 
-@implementation DemoTests
+@implementation githubCreateTests
 
 - (void)setUp {
     [super setUp];
